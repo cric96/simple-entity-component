@@ -6,5 +6,5 @@ package com.scala.engine
 object World {
   val x = 700
   val y = 700
-  val entities = 500000
+  val entities = 10000
 }
