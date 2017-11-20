@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.scalafx:scalafx-demos_2.10:8.0.0-M1" type="repository">
+    <properties maven-id="org.scalafx:scalafx-demos_2.10:8.0.0-M1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalafx/scalafx-demos_2.10/8.0.0-M1/scalafx-demos_2.10-8.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalafx/scalafx_2.10/8.0.0-M1/scalafx_2.10-8.0.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
